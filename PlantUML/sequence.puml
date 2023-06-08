@@ -5,8 +5,8 @@ autonumber
 actor user as "Resource Owner\n(User)"
 box "token stays secure" #FAFAFA
 participant client as "Client\n(Application)"
-participant authorization as "authorization server"
-database resource as "resource server"
+participant authorization as "Authorization Server"
+database resource as "Resource Server"
 end box
 
 group user authorizes client
