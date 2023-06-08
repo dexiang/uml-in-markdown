@@ -4,7 +4,7 @@
 
 PlantUML
 
-![Sequence Diagram Link](./PlantUML/sequence.puml)
+![Sequence Diagram Link](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/dexiang/uml-in-markdown/master/PlantUML/sequence.puml)
 
 Mermaid
 
